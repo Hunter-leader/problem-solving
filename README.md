@@ -4,7 +4,7 @@
 3. [Problem - 4A - Codeforces](https://codeforces.com/problemset/problem/4/A)
 4. [Problem - 59A - Codeforces](https://codeforces.com/problemset/problem/59/A)
 5. [Problem - 110A - Codeforces](https://codeforces.com/problemset/problem/110/A)
-6. 
+6. [Problem - 1542A - Codeforces](https://codeforces.com/problemset/problem/1542/A)
 7. [Problem - 236A - Codeforces](https://codeforces.com/problemset/problem/236/A)
 8. [Problem - 2009A - Codeforces](https://codeforces.com/problemset/problem/2009/A)
 9. [Problem - 1283A - Codeforces](https://codeforces.com/problemset/problem/1283/A)
