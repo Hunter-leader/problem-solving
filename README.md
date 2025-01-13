@@ -16,6 +16,8 @@
 15. [Problem - 1968A - Codeforces](https://codeforces.com/problemset/problem/1968/A)
 16. [Problem - 1985B - Codeforces](https://codeforces.com/problemset/problem/1985/B)
 17. [Problem - 769A - Codeforces](https://codeforces.com/problemset/problem/769/A)
-18. 
+18. [Problem - 318A - Codeforces](https://codeforces.com/problemset/problem/318/A)
+19. [Problem - 320A - Codeforces](https://codeforces.com/problemset/problem/320/A)
+20. 
 
 
