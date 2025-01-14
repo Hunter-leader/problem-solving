@@ -20,6 +20,9 @@
 19. [Problem - 320A - Codeforces](https://codeforces.com/problemset/problem/320/A)
 20. [Problem - 275A - Codeforces](https://codeforces.com/problemset/problem/275/A)
 
+
+# solved
+
 2. [Problem - 71A - Codeforces](https://codeforces.com/problemset/problem/71/A)
 3. [Problem - 4A - Codeforces](https://codeforces.com/problemset/problem/4/A)
 4. [Problem - 59A - Codeforces](https://codeforces.com/problemset/problem/59/A)
