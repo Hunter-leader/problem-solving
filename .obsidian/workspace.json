@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem 59A Word.md",
+                "file": "Code Forces Problem Link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem 59A Word"
+              "title": "Code Forces Problem Link"
             }
           }
         ],
@@ -222,10 +222,10 @@
   },
   "active": "73469f02fe63713c",
   "lastOpenFiles": [
+    "Problem 59A Word.md",
     "Code Forces Problem Link.md",
     "README.md",
     "Problem.md",
-    "Problem 59A Word.md",
     "Problem 71A Way Too Long Words.md",
     "Some Website for Better in Programming.md"
   ]
