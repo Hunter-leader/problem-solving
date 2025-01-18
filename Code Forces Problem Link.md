@@ -29,4 +29,5 @@
 4. [Problem - 110A - Codeforces](https://codeforces.com/problemset/problem/110/A)
 5. [Problem - 2009A - Codeforces](https://codeforces.com/problemset/problem/2009/A)
 6. [Problem - 1742A - Codeforces](https://codeforces.com/problemset/problem/1742/A)
-7. 
+7. [Problem - 1760A - Codeforces](https://codeforces.com/problemset/problem/1760/A)
+8. 
