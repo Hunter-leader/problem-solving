@@ -14,7 +14,7 @@
 18. [Problem - 318A - Codeforces](https://codeforces.com/problemset/problem/318/A)
 19. [Problem - 320A - Codeforces](https://codeforces.com/problemset/problem/320/A)
 20. [Problem - 275A - Codeforces](https://codeforces.com/problemset/problem/275/A)
-
+21. [Problem - A - Codeforces](https://codeforces.com/contest/2044/problem/A)
 
 # solved
 
