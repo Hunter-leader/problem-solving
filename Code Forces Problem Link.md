@@ -1,12 +1,7 @@
 
 1. [Problem - 1971B - Codeforces](https://codeforces.com/problemset/problem/1971/B)
-
-
-
-5. 
 6. [Problem - 1542A - Codeforces](https://codeforces.com/problemset/problem/1542/A)
 7. [Problem - 236A - Codeforces](https://codeforces.com/problemset/problem/236/A)
-
 9. [Problem - 1283A - Codeforces](https://codeforces.com/problemset/problem/1283/A)
 10. [Problem - 1950C - Codeforces](https://codeforces.com/problemset/problem/1950/C)
 11. [Problem - 271A - Codeforces](https://codeforces.com/problemset/problem/271/A)
